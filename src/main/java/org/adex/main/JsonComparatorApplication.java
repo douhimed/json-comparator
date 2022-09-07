@@ -2,18 +2,6 @@ package org.adex.main;
 
 import org.adex.services.JsonComparator;
 import org.adex.services.impl.JsonComparatorImpl;
-import org.adex.utilities.JsonUtils;
-import org.json.simple.JSONArray;
-import org.json.simple.JSONObject;
-import org.json.simple.JSONValue;
-import org.json.simple.parser.ContainerFactory;
-import org.json.simple.parser.JSONParser;
-import org.json.simple.parser.ParseException;
-
-import java.util.LinkedHashMap;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Map;
 
 public class JsonComparatorApplication {
 
